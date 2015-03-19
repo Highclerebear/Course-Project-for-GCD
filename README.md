@@ -1,6 +1,6 @@
-# PMunde_GCD
-Course Project for Getting &amp; Cleaning Data 
+# Getting and Cleaning Data
 
+## Course Project
 
 This file describes how you should use the script provided.
 
